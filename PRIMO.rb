@@ -19,8 +19,8 @@ n = gets.chomp.to_i
 
 isprime = primo(n)
 if isprime
-	puts "sim"
+    puts "sim"
 else 
-	puts "nao"
+    puts "nao"
 end
 
