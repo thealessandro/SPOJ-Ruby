@@ -22,5 +22,5 @@ end
 if excedeu
     puts "S"
 else 
-	puts "N"
+    puts "N"
 end
