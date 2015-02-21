@@ -20,7 +20,7 @@ for i in 1..n
 end 
 
 if excedeu
-	puts "S"
+    puts "S"
 else 
 	puts "N"
 end
