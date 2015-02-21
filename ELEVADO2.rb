@@ -9,7 +9,7 @@ n = arr.at(0).to_i
 c = arr.at(1).to_i
 
 for i in 1..n
-	arr = gets.chomp.split(" ")
+    arr = gets.chomp.split(" ")
     s = arr.at(0).to_i 
     e = arr.at(1).to_i
     sum += e
