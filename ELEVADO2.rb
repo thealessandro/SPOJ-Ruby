@@ -1,7 +1,6 @@
 e = 0
 s = 0
 sum = 0
-dif = 0
 excedeu = false
 
 arr = gets.chomp.split(" ")
